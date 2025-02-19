@@ -1,4 +1,3 @@
-version: '3'
 services:
   hello-algo:
     build: .
@@ -6,3 +5,5 @@ services:
     container_name: hello-algo
     ports:
       - "8000:8000"
+    volumes:
+      - ./:/app  # 🔥 核心配置：将主机代码实时同步到容器内

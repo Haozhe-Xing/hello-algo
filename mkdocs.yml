@@ -141,8 +141,8 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  # - javascripts/katex.js 
-  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  # - javascripts/katex.js
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra_css:
@@ -157,6 +157,15 @@ nav:
     - 0.1 &nbsp; 关于本书: chapter_preface/about_the_book.md
     - 0.2 &nbsp; 如何使用本书: chapter_preface/suggestions.md
     - 0.3 &nbsp; 小结: chapter_preface/summary.md
+  - 第 1 章 &nbsp; C++基础语法:
+    - 1.1 &nbsp; 安装软件: chapter_cpp_basic/install_software.md
+    - 1.2 &nbsp; 第一个程序: chapter_cpp_basic/first_cpp_program.md
+    - 1.3 &nbsp; 数据类型: chapter_cpp_basic/data_type.md
+    - 1.4 &nbsp; 变量和常亮: chapter_cpp_basic/var.md
+    - 1.5 &nbsp; 基础运算符: chapter_cpp_basic/cpp_operations.md
+    - 1.6 &nbsp; 控制语句: chapter_cpp_basic/control.md
+    - 1.7 &nbsp; 类型转换: chapter_cpp_basic/char_and_int.md
+    - 1.8 &nbsp; 数组: chapter_cpp_basic/array.md
   - 第 1 章 &nbsp; 初识算法:
     # [icon: material/calculator-variant-outline]
     - chapter_introduction/index.md

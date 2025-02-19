@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&duration=3500&pause=2000&color=21C8B8&center=true&vCenter=true&random=false&width=200&lines=Hello%2C+%E7%AE%97%E6%B3%95+!" alt="hello-algo-typing-svg" />
   </br>
-  动画图解、一键运行的数据结构与算法教程
+  动画图解、一键运行的数据结构与算法教程1
 </p>
 
 <p align="center">
@@ -69,24 +69,57 @@
 
 感谢本开源书的每一位撰稿人，是他们的无私奉献让这本书变得更好，他们是：
 
-<p align="left">
-    <a href="https://github.com/krahets/hello-algo/graphs/contributors">
-        <img width="550" src="https://contrib.rocks/image?repo=krahets/hello-algo" />
-    </a>
-</p>
-
 ## License
 
 The texts, code, images, photos, and videos in this repository are licensed under [CC BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## 待整理工作 
-
 1. https://github.com/Haozhe-Xing/OI-wiki?tab=readme-ov-file
 2. 代码随想录 https://programmercarl.com/
 3. USACO guide 地址 https://usaco.guide/
-4. CCC 竞赛地址
-5. leetcode 刷题教程 https://github.com/krahets/LeetCode-Book
-6. 
+4. CCC 竞赛地址 
+5. codeforces
+6. leetcode 刷题教程 https://github.com/krahets/LeetCode-Book
 ## 编写大纲
 1. 优先完成铜级内容：覆盖基础算法与语法，吸引初学者
 2. 整合真题库：从USACO官网、翰林等平台整理近5年真题，按知识点分类
+
+## 刷题地址
+
+## 在线编程地址
+1. https://cpp.sh/
+
+## 书籍推荐
+1. 适合Python学习的书籍： 
+《教孩子学编程python语言版》
+《DK编程真好玩:9岁开始学Python》
+《漫画算法:小灰的算法之旅》
+《趣学Python:教孩子学编程》
+	
+适合C+入门的书籍推荐：
+《小学生C++趣味编程》
+《漫画算法:小灰的算法之旅》
+《啊哈!算法》
+	
+适合C++进阶的书籍推荐
+《算法竞赛》
+《算法图解》
+《我的第一本算法书》
+	
+适合C++竞赛的书籍推荐
+《算法竞赛进阶指南》
+《深入浅出程序设计竞赛》
+《算法竞赛入门经典》
+《算法艺术与信息学竞赛》
+
+## USACO竞赛
+
+## CCC竞赛
+
+## CSP竞赛
+
+<p align="left">
+    <a href="https://github.com/krahets/hello-algo/graphs/contributors">
+        <img width="550" src="https://contrib.rocks/image?repo=krahets/hello-algo" />
+    </a>
+</p>
